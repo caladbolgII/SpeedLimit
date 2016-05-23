@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "speedlimit-d2624",
+    "project_number": "1040595408878",
+    "name": "SpeedLimit"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040595408878:android:b4d78e99c85f00b3",
+        "client_id": "android:com.example.caladbolg.speedlimit",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.caladbolg.speedlimit",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040595408878-1d7pdvsgo476fqfrvnan0hsaallh042t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caladbolg.speedlimit",
+            "certificate_hash": "8732839BB12B713431695A265875A38F3561D949"
+          }
+        },
+        {
+          "client_id": "1040595408878-auoh6pug52oj1jpdl0mekothtm5u7f1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
